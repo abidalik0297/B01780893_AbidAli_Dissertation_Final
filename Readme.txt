@@ -20,7 +20,7 @@ streamlit run app.py
 
 ## Dataset
 
-Due to size limitations, datasets are not included in this repository.
+Due to size limitations, datasets and output files are not included in this repository.
 They can be accessed from:
 - Enron Email Dataset
 - Nazario Phishing Corpus
